@@ -1,7 +1,11 @@
-Cosine Digital Privacy Policy
+Cosine Digital Privacy Policy: Wector
 
-Cosine Digital does not collect, store, or retain data of any kind from you — the user — if you download and play Wector. Wector contains no ads or in-app purchases and is completely free to play.
+1. Cosine Digital reserves the right to change this privacy policy at any time. This privacy policy was last updated June 11th, 2022.
 
-Wector is built using Unity, a game authoring software package that may collect user data in order to function properly. Please visit Unity's Privacy Policy website at https://unity3d.com/legal/privacy-policy for more information.
+2. Cosine Digital does not collect, store, or retain data of any kind from you if you choose to download and play Wector. Wector contains no ads or in-app purchases and is completely free to play.
 
-If you have any questions, concerns, or comments, you may contact Cosine Digital at developer.CosineDigital@gmail.com with 'Wector' in the subject line.
+3. Wector is built using Unity, a game authoring software package that may collect user data in order to function properly. Please visit Unity's Privacy Policy website at https://unity3d.com/legal/privacy-policy for more information.
+
+If you do not agree with the above three statements, please refrain from downloading and playing Wector.
+
+If you have any questions, concerns, or comments, you may contact us at developer.CosineDigital@gmail.com with 'Wector' in the subject line.
